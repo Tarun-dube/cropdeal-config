@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/cropdeal_user_db
     username: root
-    password: your_mysql_password
+    password: Tarun@123
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
